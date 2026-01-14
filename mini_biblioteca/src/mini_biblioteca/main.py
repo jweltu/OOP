@@ -15,4 +15,4 @@ def main():
         print(f"O livro {livro1.titulo} não se encontra dísponível no momento.")
     
     print(f"---INFORMAÇÕES DO LIVRO--- \n\nNome do livro: {livro1.titulo} \nautor: {livro1.autor} \nisbn: {livro1.isbn}")
-    print(f"---INFORMAÇÕES DO USUÁRIO--- \n\nNome: {user1.nome} \nid: {user1.__idUser}")
+    print(f"---INFORMAÇÕES DO USUÁRIO--- \n\nNome: {user1.nome} \nid: {user1.idUser}")
